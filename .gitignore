@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtualenv
+slenv/
+
+# Project-specific
+temp/
+data/
+models/
+*.mp4
+*.mov
+*.avi
+*.pth
+
+# IDE
+.vscode/
+.idea/

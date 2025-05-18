@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit==1.38.0
+torch==2.0.1
+torchvision==0.15.2
+opencv-python==4.10.0.84
+numpy==1.26.4
+pillow==10.4.0
+matplotlib==3.9.2
+requests==2.32.3  # For model weight downloads
